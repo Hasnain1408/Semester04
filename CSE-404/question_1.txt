@@ -1,0 +1,6 @@
+branch(branch_name, branch_city, assets)
+customer(customer_name, customer_street, customer_city)
+account (account_number, branch_name,balance)
+loan(loan_number, branch_name, amount)
+depositor(customer_name, account_number)
+borrower(customer_name, loan_number)

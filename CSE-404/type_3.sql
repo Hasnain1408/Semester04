@@ -1,0 +1,1 @@
+SELECT get_sal(employee_id) from employee;
